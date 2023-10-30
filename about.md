@@ -5,4 +5,4 @@
 - Ador mâncarea italiană
 - Link-ul de mai jos:
 
-[Detalii aici]
+[Detalii aici](edypatrana.github.io/index.md)
